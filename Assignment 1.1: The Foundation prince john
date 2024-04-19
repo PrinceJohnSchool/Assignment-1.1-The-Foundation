@@ -1,0 +1,29 @@
+    <!-- Prince John -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <!-- Comp Sci is my major not sure what I was supposed to make the tittle -->
+
+    <title>Comp Sci</title>
+</head>
+<body>
+        <!-- Title is the same as the objectives page  -->
+    <header> <h1>ADVANCING COMPUTER SCIENCE DEGREE OBJECTIVES </h1> </header>
+   
+    <!-- Now this is the objectives I was gonna just make the paragraphs but i thought this looked neater -->
+    <li>Follow a software development process to analyze a problem and to design, build and test software solutions.</li>
+    
+    <li> Demonstrate software development skills using more than one programming language and development environment. </li>
+    
+    <li>Implement data-driven solutions.</li>
+        <!-- Spaced them out because my eyes were straining and its not that many lines of code anyways -->
+    <li>Design and implement software solutions for mobile devices, embedded systems and/or multiple platforms.</li>
+    
+    <li>Document the planning and development of software applications using industry standard tools, techniques and processes.</li>
+    
+    <li>Within software solutions, describe, implement and analyze data structure techniques such as lists, trees, hash tables and graphs, along with sorting and searching algorithms.</li>
+
+</body>
+</html>
